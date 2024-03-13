@@ -6,4 +6,5 @@
 
 - The video demo of how the extractor works (it's almost mulrtilingual!):
 
-![](./assets/demo.mp4)
+https://github.com/mumtozee/UserFeatureExtraction/assets/52557963/33844baf-5c7e-47bb-9457-b9c15d7427cc
+
