@@ -6,4 +6,4 @@
 
 - The video demo of how the extractor works (it's almost mulrtilingual!):
 
-<video src="./assets/demo.mp4" controls></video>
+![](./assets/demo.mp4)
